@@ -1,0 +1,68 @@
+<style>
+    .addToCart {
+        color: #ffffff;
+        background-color: #ffc00f;
+        border-style: solid;
+        border-radius: 15px;
+        width: 110px;
+        height: 30px;
+        font-weight: bold;
+        cursor: pointer;
+        margin-right: 10px;
+        border-width: 3px;
+
+        transition: /* How long it takes to transition any Property */
+                color 0.3s,
+                background-color 0.3s,
+                box-shadow 0.15s;
+    }
+
+    .addToCart:hover { /* If mouse is hovering over */
+        color: #cacaca;
+        background-color: #ca9a0c;
+
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3); /* width height blur color */
+    }
+
+    .addToCart:active { /* If mouse is clicking button */
+        color: #ca9a0c;
+        background-color: #cacaca;
+    }
+
+    .checkout {
+        color: #ffffff;
+        background-color: #0088b9;
+        border-style: solid;
+        border-radius: 15px;
+        width: 110px;
+        height: 30px;
+        font-weight: bold;
+        cursor: pointer;
+        border-width: 3px;
+
+        transition: /* How long it takes to transition any Property */
+                color 0.3s,
+                background-color 0.3s,
+                box-shadow 0.15s;
+    }
+
+    .checkout:hover {
+        color: #cacaca;
+        background-color: #006588;
+
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3); /* width height blur color */
+    }
+
+    .checkout:active {
+        color: #006588;
+        background-color: #cacaca;
+    }
+</style>
+
+<button class="addToCart">
+    Add to Cart
+</button>
+
+<button class="checkout">
+    Checkout
+</button>

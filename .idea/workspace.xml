@@ -10,12 +10,81 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/website.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7738031011495239" />
+      <entry key="MS500" value="2.151130246590184" />
+      <entry key="S2" value="3.3129338376340716" />
+      <entry key="S5" value="5.080752046935576" />
+      <entry key="S10" value="7.470937714266468" />
+      <entry key="S30" value="14.729936264158445" />
+      <entry key="S60" value="22.502410534318013" />
+      <entry key="M2" value="34.412396151528306" />
+      <entry key="M5" value="56.91674323694827" />
+      <entry key="M10" value="73.05074526891232" />
+      <entry key="M15" value="80.42735900708284" />
+      <entry key="M30" value="89.2597636084684" />
+      <entry key="H1" value="94.35582602183374" />
+      <entry key="H2" value="97.10412701031302" />
+      <entry key="H4" value="98.53289645098569" />
+      <entry key="D1" value="99.75275634497565" />
+      <entry key="W1" value="99.96461184816879" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.358992419800037E-90" />
+      <entry key="S5" value="1.623617073209863E-36" />
+      <entry key="S10" value="1.2742123344285524E-18" />
+      <entry key="S30" value="1.0841281008626198E-6" />
+      <entry key="S60" value="0.0010412147237062203" />
+      <entry key="M2" value="0.03226785898856971" />
+      <entry key="M5" value="0.2532258631541184" />
+      <entry key="M10" value="0.5032155235623389" />
+      <entry key="M15" value="0.6326585088349883" />
+      <entry key="M30" value="0.7953983334373982" />
+      <entry key="H1" value="0.8918510713327621" />
+      <entry key="H2" value="0.9443786694609112" />
+      <entry key="H4" value="0.9717914742684829" />
+      <entry key="D1" value="0.9952423486183309" />
+      <entry key="W1" value="0.9993189455899861" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.947016887152696" />
+      <entry key="MS500" value="1.7342567786187244" />
+      <entry key="S2" value="3.1223991551344503" />
+      <entry key="S5" value="4.9857165281884255" />
+      <entry key="S10" value="7.416963330807476" />
+      <entry key="S30" value="14.701545855322726" />
+      <entry key="S60" value="22.476401247811665" />
+      <entry key="M2" value="34.41577325612393" />
+      <entry key="M5" value="57.14453547822817" />
+      <entry key="M10" value="73.53592325914096" />
+      <entry key="M15" value="81.046328811211" />
+      <entry key="M30" value="90.04730704885807" />
+      <entry key="H1" value="95.24345485673635" />
+      <entry key="H2" value="98.04631461251888" />
+      <entry key="H4" value="99.50357154900374" />
+      <entry key="D1" value="100.74780965967413" />
+      <entry key="W1" value="100.96390371512544" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
@@ -28,6 +97,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.website.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -35,16 +106,28 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="website.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FirstWebsite/website.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.website.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,6 +144,7 @@
       <updated>1782505425005</updated>
       <workItem from="1782505426056" duration="77000" />
       <workItem from="1782505518846" duration="485000" />
+      <workItem from="1782506021825" duration="1715000" />
     </task>
     <servers />
   </component>

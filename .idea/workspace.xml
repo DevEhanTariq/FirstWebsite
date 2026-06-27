@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1880db0a-49c4-4be1-ac8d-d594d65b804b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HTMLStructure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,10 +133,11 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea/introToHTML" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="basicHTML.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FirstWebsite/basicHTML.html" useBuiltInWebServerPort="true">
+    <configuration name="basicHTML.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FirstWebsite/.idea/introToHTML/basicHTML.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -165,7 +164,7 @@
       <workItem from="1782505518846" duration="485000" />
       <workItem from="1782506021825" duration="8421000" />
       <workItem from="1782560752039" duration="503000" />
-      <workItem from="1782563433537" duration="3250000" />
+      <workItem from="1782563433537" duration="3875000" />
     </task>
     <servers />
   </component>

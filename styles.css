@@ -1,0 +1,59 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    font-family: Google Sans Flex;
+    width: 400px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+button {
+    font-family: Google Sans Flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    transition: opacity 0.15s;
+    align-content: center;
+}
+
+.new {
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffbb00;
+    margin-bottom: 0;
+}
+
+.product {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.price {
+    font-size: 20px;
+    color: #525252;
+    margin-bottom: 30px;
+}
+
+.buy {
+    color: white;
+    background-color: #1974ee;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.buy:hover {
+    opacity: 0.7;
+}
+
+.buy:active {
+    opacity: 0.5;
+}

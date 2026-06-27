@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1880db0a-49c4-4be1-ac8d-d594d65b804b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLStructure.html" beforeDir="false" afterPath="$PROJECT_DIR$/introToHTML/HTMLStructure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/introToHTML/basicHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttonsBasicCSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/introToHTML/buttonsBasicCSS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttonsIntermediateCSSAndHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/introToHTML/buttonsIntermediateCSSAndHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/introToHTML/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textStylesCSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/introToHTML/textStylesCSS.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

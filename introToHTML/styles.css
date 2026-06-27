@@ -26,18 +26,20 @@ button {
     font-weight: bold;
     color: #ffbb00;
     margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .product {
     font-size: 30px;
     font-weight: bold;
-    margin-bottom: 0;
+    margin-bottom: 10px;
+    padding-top: 0;
 }
 
 .price {
-    font-size: 20px;
+    font-size: 18px;
     color: #525252;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .buy {

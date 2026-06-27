@@ -1,0 +1,47 @@
+p {
+    font-family: Arial;
+    color: black;
+}
+
+.sidebar {
+    width: 80px;
+    height: auto;
+    border: black solid 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 25px;
+    background-color: lightgray;
+    padding-top: 4.5px;
+    padding-bottom: 4.5px;
+}
+
+.sidebarButton {
+    color: black;
+    background-color: lightgray;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 9px;
+    margin-top: 4.5px;
+    margin-bottom: 4.5px;
+    transition: 0.15s;
+    cursor: pointer;
+}
+
+.sidebarButton:hover {
+    width: 65px;
+    height: 45px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 6.5px;
+    font-weight: bold;
+}
+
+.sidebarButton:active {
+    color: lightgray;
+    background-color: black;
+}
